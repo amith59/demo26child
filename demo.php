@@ -12,3 +12,5 @@ foreach ($colors as $x) {
 
 </body>
 </html>
+appending code by 
+second child
