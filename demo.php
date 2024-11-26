@@ -3,14 +3,14 @@
 <body>
 
 <?php  
-$colors = array("red", "green", "blue", "yellow"); 
+$i = 1;
 
-foreach ($colors as $x) {
-  echo "$x <br>";
-}
+while ($i < 6) {
+  echo $i;
+  $i++;
+} 
 ?>  
 
 </body>
 </html>
-appending code by 
-second child
+
