@@ -14,3 +14,13 @@ while ($i < 6) {
 </body>
 </html>
 
+adding
+<?php  
+$i = 1;
+
+do {
+  echo $i;
+  $i++;
+} while ($i < 6);
+?>
+#adding registration 
