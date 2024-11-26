@@ -14,6 +14,7 @@ while ($i < 6) {
 </body>
 </html>
 
+<<<<<<< Updated upstream
 adding
 <?php  
 $i = 1;
@@ -24,3 +25,14 @@ do {
 } while ($i < 6);
 ?>
 #adding registration 
+=======
+appending 
+<?php  
+$colors = array("red", "green", "blue", "yellow"); 
+
+foreach ($colors as $x) {
+  echo "$x <br>";
+}
+?> 
+#login code
+>>>>>>> Stashed changes
